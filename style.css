@@ -1,0 +1,130 @@
+.container-fluid {
+    padding-left: 100px;
+    padding-right: 100px;
+ }
+.navbar-brand {
+    font-size: 30px;
+    color:#1E4634;
+    }
+.jumbotron{
+    background: white;
+}
+.img-fluid {
+    margin-top: 70px;
+}
+#one {
+    margin-top: 110px;
+    line-height: 1.8;
+}
+.display-4 {
+    font-size: 30px;
+}
+.btn {
+    background-color: #1E4634;
+    border-radius: 50px;
+    text-align: center;
+    
+}
+#sponsor-logo {
+   margin: 7rem; 
+   
+}
+#sponsor-logo img {
+   max-width: 900px;
+  
+}
+
+h2{
+    margin-bottom: 80px;
+    font-size: 28px;
+    color: #1E4634;
+    
+}
+h3{
+    font-size: revert;
+}
+h4{
+    font-size: 18px;
+}
+
+@media (max-width: 500px) {
+    #jumbotron-img {
+        order: -1;
+    }
+    .container-fluid {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+ 
+}
+
+.grid-row {
+    max-width: 1100px;
+    margin: 10px auto;
+}
+.btn-outline {
+    background-color: transparent;
+    border: 1px solid #1E4634;
+}
+
+.container-full {
+    padding: 0px;
+}
+.container-full .jumbotron {
+    margin-right: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+#cactus {
+    background-color:#1E4634;
+    height: 100%;
+    color: #fff;
+
+}
+#cactus-img {
+  background-image: url(../img/bölüm1/cactus.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 200px;
+}
+#cactus .btn {
+    color: #1E4634;
+
+}
+#last-section {
+    max-width: 600px;
+   
+}
+#border {
+    width: 60px;
+    height: 3px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color:  #1E4634;
+
+
+}
+.form-control {
+    border-bottom: 3px solid #ced4da !important;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    
+}
+.form-group {
+    flex:1;
+    max-width: 400px;
+   
+}
+.footer {
+    background-color: #1E4634;
+    height: 150px;
+}
+.h6 {
+    font-size: 36px;
+}
+.social-media i {
+    font-size: 30px;
+    color: #1E4634;
+}
